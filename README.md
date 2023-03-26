@@ -1,6 +1,6 @@
 # TP-SCM
 
-Repository created for the scm lab
+Bienvenue dans ce répertoire dédié à la découverte de Github.
 
 ## Vacances 
 [Lien Club Med](https://www.clubmed.fr) 
