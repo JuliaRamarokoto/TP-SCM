@@ -1,6 +1,6 @@
 # TP-SCM
 
-Repository created for the scm lab
+*Répertoire crée pour découvrir les fonctionnalités de Github*
 
 ## Vacances 
 [Lien Club Med](https://www.clubmed.fr) 
