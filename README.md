@@ -1,6 +1,6 @@
 # TP-SCM
 
-*Répertoire crée pour découvrir les fonctionnalités de Github*
+Bienvenue dans ce répertoire dédié à la découverte de Github.
 
 ## Vacances 
 [Lien Club Med](https://www.clubmed.fr) 
